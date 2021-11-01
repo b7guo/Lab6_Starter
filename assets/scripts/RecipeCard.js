@@ -1,7 +1,7 @@
 class RecipeCard extends HTMLElement {
   constructor() {
     // Part 1 Expose - TODO
-
+    super()
     // You'll want to attach the shadow DOM here
   }
 
